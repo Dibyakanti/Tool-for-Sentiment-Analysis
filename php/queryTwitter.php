@@ -3,10 +3,10 @@ require_once('TwitterAPIExchange.php');
 // $hashtag = $_GET["q"];
 
 $settings = array(
-    'oauth_access_token' => 1289826632903979008-R3qr2tVshwnAiHONMmcwJuRpGPpVGd,
-    'oauth_access_token_secret' => NM021bBrjwVBlag3UO8KLx7biTDwjTMXG5F1NYMz9E8DJ,
-    'consumer_key' => NrF5bt4MhnGzdKyehnwiwtXbo,
-    'consumer_secret' => ne3HRfxehhmtlQsVLKxz4zupOXUu9VHUMYbKV07tMeJsdiR39w
+    'oauth_access_token' => "put access token here ",
+    'oauth_access_token_secret' => "put access token secret here",
+    'consumer_key' => "put consumer token here",
+    'consumer_secret' => "put consumer token secret here"
 );
 
 $url = 'https://api.twitter.com/1.1/statuses/home_timeline.json';
