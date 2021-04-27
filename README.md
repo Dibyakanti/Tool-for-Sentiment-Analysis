@@ -16,9 +16,9 @@ This is a tool to check a twitter user's home timeline (tweets) to get and separ
 
 To get the tweets you need to run `get_tweet.py`.
 
-'''
+```
 python get_tweet.py --count 100       # put the number of tweets you want to fetch (default 50)
-'''
+```
 
 #### Run `index.html`
 
