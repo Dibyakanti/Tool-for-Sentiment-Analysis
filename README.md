@@ -2,6 +2,8 @@
 
 This is a tool to check a twitter user's home timeline (tweets) to get and separate them into three categories so that the user can read whichever he wants on the basis of his mood.
 
+<img src="https://github.com/Dibyakanti/Tool-for-Sentiment-Analysis-EE390-course-project/blob/main/img/preview.png">
+
 ## How to run
 
 #### Intial preparation before running the codes :
